@@ -6,13 +6,4 @@ Repository with a description of interactions between LS AAI and GDI infrastruct
 
 ### Starter kit components
 
-- [Beacon Network](./docs/beacon-network.md)
-- [Beacon](./docs/beacon.md)
 - [REMS](./docs/rems.md)
-- [Htsget](./docs/htsget.md)
-- [Storage and Interfaces](./docs/storage-and-interfaces.md)
-- [Containerized Computation](./docs/containerized-computation.md)
-
-## Non starterkit components
-
-- [User portal](./docs/portal.md)
